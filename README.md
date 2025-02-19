@@ -1,9 +1,5 @@
 ### About Me:    
-I'm a dedicated Android native app developer with a strong focus on crafting seamless and efficient user experiences. My expertise extends to website development, where I build responsive and visually appealing web applications, as well as SQL development, where I ensure robust data management and optimization.
-
-I excel in leveraging the latest technologies and best practices to develop high-performance Android applications. My experience in website development spans front-end and back-end technologies, allowing me to create comprehensive and dynamic web solutions. With a solid foundation in SQL, I am adept at designing, managing, and optimizing databases to support complex applications.
-
-Currently, I am immersed in an exciting project involving the development of a frame login for Android. This project highlights my ability to integrate secure authentication mechanisms and deliver a smooth user interface. In my free time, I enjoy exploring new programming paradigms, contributing to open-source projects, and sharpening my coding skills through competitive programming and hackathons.
+I am a Pentester and QA Engineer with a strong background in Android Native and PHP development. My experience in software development helps me understand applications at a deeper level, allowing me to identify vulnerabilities, optimize security, and ensure software quality effectively. I specialize in testing, analyzing, and securing applications to enhance their reliability and resilience.
     
   
 ### Social media: 📡    
@@ -17,15 +13,19 @@ Contact me through Telegram:
 
 | CTF | Result | Team | Date |
 |-----|-----|-----|-----|
-|Secathon 2024|top 2|CoffeeOverFlow|18/05/2024|
-|OSINT@CTF@FUCT|top 3|Single|01/04/2024|
+|Secathon 2024|top 2|CoffeeOverFlow|2024|
+|OSINT@CTF@FUCT|top 3|Single|2024|
+|F Hacker|top 4|1MP0ST3RS|2024|
+|OSINT_TET@CTF@FUCT|top 1|Single|2025|
 |soon more|...|...|...|
 
 
 
 ### Working on: 🚀
 
-- [Web APP API Login Frame](https://github.com/h1ax/Admin-Dashboard-key/tree/main) 
+- [Web APP API Login Frame](https://github.com/h1ax/Admin-Dashboard-key/tree/main)
+
+- [My Website](https://capturer.io.vn)
 
 
 ## Languages and Tools 
@@ -63,10 +63,9 @@ Contact me through Telegram:
 
 ### OS:
 
-| Kali Linux | Windows | Android | My Website |
-|----------|----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/197px-Kali_Linux_2.0_wordmark.svg.png?20160123181431" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1200px-Windows_logo_and_wordmark_-_2021.svg.png?20211017210008" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png?20180121030125" title="Android" alt="Android" width="55" height="55"/> | <img src="https://icon-library.com/images/website-vector-icon/website-vector-icon-2.jpg" title="My Website" alt="My Website" width="55" height="55"/> |
-
+| Kali Linux | Windows | Android |
+|----------|----------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/197px-Kali_Linux_2.0_wordmark.svg.png?20160123181431" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1200px-Windows_logo_and_wordmark_-_2021.svg.png?20211017210008" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png?20180121030125" title="Android" alt="Android" width="55" height="55"/> |
 
 </div>
 
