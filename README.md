@@ -34,7 +34,7 @@ Contact me through Telegram:
 ### Languages:
 | Python3 | C | PHP | Java |
 |----------|----------|----------|----------|
-|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/477px-The_C_Programming_Language_logo.svg.png?20230112193555" title="C"  alt="C" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" title="PHP" alt="PHP" width="55" height="55"/> |   <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Java_Black_icon.svg/345px-Java_Black_icon.svg.png](https://www.kindpng.com/picc/m/198-1984828_java-icon-transparent-hd-png-download.png)" title="Java" alt="Java" width="55" height="55"/> | 
+|  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/172px-Python-logo-notext.svg.png?20220821155029" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/477px-The_C_Programming_Language_logo.svg.png?20230112193555" title="C"  alt="C" width="55" height="55"/> |  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1067px-PHP-logo.svg.png?20180502235434" title="PHP" alt="PHP" width="55" height="55"/> |   <img src="https://www.kindpng.com/picc/m/198-1984828_java-icon-transparent-hd-png-download.png" title="Java" alt="Java" width="55" height="55"/> | 
 
   
 
