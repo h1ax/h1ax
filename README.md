@@ -63,9 +63,9 @@ Contact me through Telegram:
 
 ### OS:
 
-| Kali Linux | Windows | Android |
-|----------|----------|----------|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/197px-Kali_Linux_2.0_wordmark.svg.png?20160123181431" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1200px-Windows_logo_and_wordmark_-_2021.svg.png?20211017210008" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png?20180121030125" title="Android" alt="Android" width="55" height="55"/> |
+| Kali Linux | Windows | Android | Ubuntu |
+|----------|----------|----------|----------|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/197px-Kali_Linux_2.0_wordmark.svg.png?20160123181431" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Windows_logo_and_wordmark_-_2021.svg/1200px-Windows_logo_and_wordmark_-_2021.svg.png?20211017210008" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/767px-Android_robot.svg.png?20180121030125" title="Android" alt="Android" width="55" height="55"/> | <img src="https://duckduckgo.com/i/3a3dca1bba73e0f3.png" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
 </div>
 
