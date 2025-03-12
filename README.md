@@ -1,5 +1,5 @@
 ### About Me:    
-I am a Pentester and QA Engineer with a strong background in Android Native and PHP development. My experience in software development helps me understand applications at a deeper level, allowing me to identify vulnerabilities, optimize security, and ensure software quality effectively. I specialize in testing, analyzing, and securing applications to enhance their reliability and resilience.
+A recent graduate with foundational knowledge in cybersecurity, particularly in web application security, secure programming, and cloud and server configuration. I have hands-on experience through projects like Sentinel Auth and App List, using tools such as Burp Suite, Postman and Frida. Eager to contribute and learn from experienced professionals in a dynamic organization.
     
   
 ### Social media: 📡    
