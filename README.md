@@ -5,7 +5,7 @@ A recent graduate with foundational knowledge in cybersecurity, particularly in 
 ### Social media: 📡    
 Contact me through Telegram:
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ImCapturer)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pr0x_mx)
 
 ## Competitions: 🥇
 
